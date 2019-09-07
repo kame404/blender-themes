@@ -973,7 +973,7 @@
     <outliner>
       <ThemeOutliner
         match="#b9dce1"
-        selected_highlight="#50b0c0"
+        selected_highlight="#b9dce1"
         active="#50b0c0"
         selected_object="#ffffff"
         active_object="#ffffff"
