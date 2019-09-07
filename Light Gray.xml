@@ -542,7 +542,7 @@
             button_text="#303030"
             button_text_hi="#303030"
             navigation_bar="#a1a1a1ff"
-            execution_buts="#00000000"
+            execution_buts="#b1b1b100"
             tab_active="#50b0c0"
             tab_inactive="#b1b1b1"
             tab_back="#a1a1a1ff"
