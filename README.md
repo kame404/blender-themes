@@ -11,7 +11,7 @@ Modern themes for Blender 2.8
 
 **Deep Ocean**
 
-![Deep Ocean](https://user-images.githubusercontent.com/54836559/64172383-daeb2700-ce8f-11e9-8156-75da1a28d61f.png)
+![Deep Ocean](https://user-images.githubusercontent.com/54836559/64956504-b34f8200-d8c5-11e9-9b2d-31046e17e34c.png)
 
 **Flat Dark**
 
