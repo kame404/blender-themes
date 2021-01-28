@@ -367,6 +367,7 @@
         speaker="#000000"
         vertex="#000000"
         vertex_select="#f66913"
+        vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
@@ -476,6 +477,7 @@
         preview_range="#00000050"
         vertex="#363636"
         vertex_select="#fa9900"
+        vertex_active="#ffffff"
         vertex_size="10"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
@@ -502,7 +504,7 @@
             text_hi="#ffffff"
             header="#ddddddff"
             header_text="#303030"
-            header_text_hi="#303030"
+            header_text_hi="#ffffff"
             button="#e5e5e500"
             button_title="#303030"
             button_text="#303030"
@@ -538,6 +540,7 @@
     <file_browser>
       <ThemeFileBrowser
         selected_file="#363636"
+        row_alternate="#ffffff07"
         >
         <space>
           <ThemeSpaceGeneric
@@ -605,7 +608,7 @@
             text_hi="#ffffff"
             header="#ddddddff"
             header_text="#303030"
-            header_text_hi="#303030"
+            header_text_hi="#ffffff"
             button="#e5e5e500"
             button_title="#303030"
             button_text="#303030"
@@ -668,7 +671,7 @@
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
-        summary="#36363650"
+        summary="#ffffff50"
         preview_range="#00000050"
         interpolation_line="#94e575cc"
         >
@@ -680,7 +683,7 @@
             text_hi="#ffffff"
             header="#ddddddff"
             header_text="#303030"
-            header_text_hi="#303030"
+            header_text_hi="#ffffff"
             button="#e5e5e500"
             button_title="#303030"
             button_text="#303030"
@@ -715,8 +718,10 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
+        grid="#abababff"
         vertex="#000000"
         vertex_select="#fa9900"
+        vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
@@ -738,7 +743,6 @@
         preview_stitch_unstitchable="#ff0000ff"
         preview_stitch_active="#e1d2c323"
         uv_shadow="#707070ff"
-        uv_others="#606060ff"
         frame_current="#60c040"
         metadatabg="#000000"
         metadatatext="#2e2e2e"
@@ -823,7 +827,7 @@
             text_hi="#ffffff"
             header="#ddddddff"
             header_text="#303030"
-            header_text_hi="#303030"
+            header_text_hi="#ffffff"
             button="#e5e5e500"
             button_title="#303030"
             button_text="#303030"
@@ -848,7 +852,9 @@
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>
-      <ThemeProperties>
+      <ThemeProperties
+        match="#5680c2"
+        >
         <space>
           <ThemeSpaceGeneric
             back="#e5e5e5"
@@ -930,6 +936,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
+        grid="#d9d9d9"
         node_selected="#f66913"
         node_active="#fa9900"
         wire="#868686"
@@ -1165,7 +1172,7 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#ababab"
+        grid="#abababff"
         marker_outline="#000000"
         marker="#7f7f00"
         active_marker="#ffffff"
@@ -1204,7 +1211,7 @@
             text_hi="#ffffff"
             header="#ddddddff"
             header_text="#303030"
-            header_text_hi="#303030"
+            header_text_hi="#ffffff"
             button="#e5e5e500"
             button_title="#303030"
             button_text="#303030"
@@ -1447,6 +1454,40 @@
         >
       </ThemeBoneColorSet>
     </bone_color_sets>
+    <collection_color>
+      <ThemeCollectionColor
+        color="#e2605b"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#f1a355"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#f1dc55"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#7bcc7b"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#5db6ea"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#8d59da"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#c673b8"
+        >
+      </ThemeCollectionColor>
+      <ThemeCollectionColor
+        color="#7a5441"
+        >
+      </ThemeCollectionColor>
+    </collection_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
