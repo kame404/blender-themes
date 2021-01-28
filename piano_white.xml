@@ -1049,7 +1049,7 @@
     <info>
       <ThemeInfo
         info_selected="#363636"
-        info_selected_text="#303030"
+        info_selected_text="#ffffff"
         info_error="#eca4baff"
         info_error_text="#ff1961"
         info_warning="#dfc890ff"
