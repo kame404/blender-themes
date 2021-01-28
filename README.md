@@ -7,7 +7,7 @@ Modern themes for Blender 2.8
 
 **Piano White**
 
-![piano (3)](https://user-images.githubusercontent.com/54836559/79198299-3b066a80-7e6e-11ea-9829-c69c0e4cd6f6.png)
+![piano White](https://user-images.githubusercontent.com/54836559/79198299-3b066a80-7e6e-11ea-9829-c69c0e4cd6f6.png)
 
 **Choco Mint**
 
@@ -20,10 +20,6 @@ Modern themes for Blender 2.8
 **Flat Dark**
 
 ![Flat Dark](https://user-images.githubusercontent.com/54836559/64172388-dd4d8100-ce8f-11e9-98cd-f4dc5d5f5014.png)
-
-**Fresh Snow**
-
-![Fresh Snow](https://user-images.githubusercontent.com/54836559/64172392-dfafdb00-ce8f-11e9-9e64-37ce28ea29bc.png)
 
 **Light Gray**
 
@@ -41,10 +37,6 @@ Modern themes for Blender 2.8
 
 ![Metaseq Classic](https://user-images.githubusercontent.com/54836559/64172427-edfdf700-ce8f-11e9-8710-d905effac629.png)
 
-**Natural Aquamarine**
-
-![Natural Aquamarine](https://user-images.githubusercontent.com/54836559/64172433-f0f8e780-ce8f-11e9-83a7-cf1bc82a27dc.png)
-
 **Pastel Blue**
 
 ![Pastel Blue](https://user-images.githubusercontent.com/54836559/64172440-f3f3d800-ce8f-11e9-8d3e-ae16c3ce4c46.png)
@@ -52,10 +44,6 @@ Modern themes for Blender 2.8
 **Pastel Pink**
 
 ![Pastel Pink](https://user-images.githubusercontent.com/54836559/64172444-f6563200-ce8f-11e9-96f6-60ac34f83362.png)
-
-**Super Bright**
-
-![Super Bright](https://user-images.githubusercontent.com/54836559/64172446-f8b88c00-ce8f-11e9-91e2-f5051cb6e8a9.png)
 
 **True Black**
 
