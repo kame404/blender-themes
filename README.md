@@ -1,7 +1,7 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 2.8
+Modern themes for Blender 2.9
  
 ## Screenshots
 
