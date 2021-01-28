@@ -5,6 +5,10 @@ Modern themes for Blender 2.8
  
 ## Screenshots
 
+**Piano White**
+
+![piano (3)](https://user-images.githubusercontent.com/54836559/79198299-3b066a80-7e6e-11ea-9829-c69c0e4cd6f6.png)
+
 **Choco Mint**
 
 ![Choco Mint](https://user-images.githubusercontent.com/54836559/64172378-d6267300-ce8f-11e9-8878-fabcfd33f5e3.png)
