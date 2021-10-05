@@ -23,10 +23,10 @@
         gizmo_b="#a33535"
         icon_scene="#303030ff"
         icon_collection="#303030ff"
-        icon_object="#DA8100ff"
+        icon_object="#da8100ff"
         icon_object_data="#00d4a3ff"
-        icon_modifier="#0083DAff"
-        icon_shading="#DA003Cff"
+        icon_modifier="#0083daff"
+        icon_shading="#da003cff"
         icon_folder="#303030ff"
         icon_border_intensity="0.1"
         >
@@ -64,7 +64,7 @@
           <ThemeWidgetColors
             outline="#d9d9d9"
             inner="#efefefff"
-            inner_sel="#a0a0a0fff"
+            inner_sel="#a0a0a0ff"
             item="#efefefff"
             text="#303030"
             text_sel="#ffffff"
@@ -221,7 +221,7 @@
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
-            roundness="1.0"
+            roundness="1"
             >
           </ThemeWidgetColors>
         </wcol_menu_back>
@@ -939,33 +939,33 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#d9d9d9"
-        node_selected="#f66913"
-        node_active="#fa9900"
-        wire="#868686"
-        wire_inner="#cfcfcf"
-        wire_select="#fa9900"
+        node_selected="#ed5700"
+        node_active="#ffffff"
+        wire="#232323"
+        wire_inner="#808080"
+        wire_select="#ffffff"
         selected_text="#7f7070"
         node_backdrop="#ffffffff"
-        converter_node="#4fc3f7"
-        color_node="#ffd54f"
-        group_node="#cfcfcfb9"
-        group_socket_node="#90a4ae"
-        frame_node="#efefefcc"
-        matte_node="#ff8a65"
+        converter_node="#66c4ff"
+        color_node="#ccb83d"
+        group_node="#5f943ccc"
+        group_socket_node="#c0c0c0"
+        frame_node="#1a1a1acc"
+        matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="4"
         grid_levels="2"
-        input_node="#f06292"
-        output_node="#e57373"
-        filter_node="#7986cb"
-        vector_node="#ba68c8"
-        texture_node="#ffb74d"
-        shader_node="#81c784"
-        script_node="#90a4ae"
-        pattern_node="#a1887f"
+        input_node="#e64555"
+        output_node="#ff4e5c"
+        filter_node="#8573c0"
+        vector_node="#9b80ff"
+        texture_node="#e68745"
+        shader_node="#63c763"
+        script_node="#13b1b1"
+        pattern_node="#6c696f"
         layout_node="#6c696f"
         geometry_node="#00d7a4"
-        attribute_node="#3f5980"
+        attribute_node="#6591ce"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1537,6 +1537,44 @@
         >
       </ThemeCollectionColor>
     </collection_color>
+    <strip_color>
+      <ThemeStripColor
+        color="#e2605b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1a355"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1dc55"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7bcc7b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5db6ea"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#8d59da"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#c673b8"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7a5441"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5f5f5f"
+        >
+      </ThemeStripColor>
+    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
