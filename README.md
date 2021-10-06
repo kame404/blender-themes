@@ -21,10 +21,6 @@ Modern themes for Blender 2.9
 
 ![Flat Dark](https://user-images.githubusercontent.com/54836559/64172388-dd4d8100-ce8f-11e9-98cd-f4dc5d5f5014.png)
 
-**Light Gray**
-
-![Light Gray](https://user-images.githubusercontent.com/54836559/64172400-e2aacb80-ce8f-11e9-8ad6-b0c202215247.png)
-
 **Maya**
 
 ![Maya](https://user-images.githubusercontent.com/54836559/64172409-e76f7f80-ce8f-11e9-8fa2-e2aac76a8eaf.png)
@@ -36,10 +32,6 @@ Modern themes for Blender 2.9
 **Metaseq Classic**
 
 ![Metaseq Classic](https://user-images.githubusercontent.com/54836559/64172427-edfdf700-ce8f-11e9-8710-d905effac629.png)
-
-**Pastel Blue**
-
-![Pastel Blue](https://user-images.githubusercontent.com/54836559/64172440-f3f3d800-ce8f-11e9-8d3e-ae16c3ce4c46.png)
 
 **Pastel Pink**
 
