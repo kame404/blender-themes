@@ -794,7 +794,7 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor
-        grid="#7c7c7c"
+        grid="#484848"
         window_sliders="#a0a0a0"
         movie_strip="#4d6890"
         movieclip_strip="#8f4c4c"
@@ -822,10 +822,10 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2b2b2b"
-            title="#eeeeee"
-            text="#000000"
-            text_hi="#ffffff"
+            back="#373737"
+            title="#ffffff"
+            text="#858585"
+            text_hi="#000000"
             header="#444444ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
