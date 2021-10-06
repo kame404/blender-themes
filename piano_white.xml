@@ -154,7 +154,7 @@
           <ThemeWidgetColors
             outline="#d9d9d9"
             inner="#efefefff"
-            inner_sel="#c0c0c0ff"
+            inner_sel="#ffffffff"
             item="#a0a0a0ff"
             text="#303030"
             text_sel="#020202"
@@ -273,9 +273,9 @@
         <wcol_scroll>
           <ThemeWidgetColors
             outline="#d9d9d9"
-            inner="#00000015"
+            inner="#cfcfcfff"
             inner_sel="#00000000"
-            item="#00000025"
+            item="#a0a0a0ff"
             text="#303030"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -735,7 +735,7 @@
         editmesh_active="#2e2e2e80"
         wire_edit="#c0c0c0"
         edge_select="#fa9900"
-        scope_back="#868686ff"
+        scope_back="#00000033"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
         preview_stitch_vert="#0000ff33"
@@ -855,7 +855,7 @@
     <properties>
       <ThemeProperties
         match="#5680c2"
-        active_modifier="#5680c2ff"
+        active_modifier="#363636ff"
         >
         <space>
           <ThemeSpaceGeneric
