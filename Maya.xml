@@ -818,6 +818,7 @@
         metadatabg="#000000"
         metadatatext="#ffffff"
         preview_range="#a14d0066"
+        row_alternate="#ffffff0d"
         >
         <space>
           <ThemeSpaceGeneric
@@ -854,6 +855,7 @@
     <properties>
       <ThemeProperties
         match="#5680c2"
+        active_modifier="#5680c2ff"
         >
         <space>
           <ThemeSpaceGeneric
@@ -962,6 +964,8 @@
         script_node="#084d4d"
         pattern_node="#6c696f"
         layout_node="#6c696f"
+        geometry_node="#00d7a4"
+        attribute_node="#3f5980"
         >
         <space>
           <ThemeSpaceGeneric
@@ -1312,6 +1316,51 @@
         </space>
       </ThemeStatusBar>
     </statusbar>
+    <spreadsheet>
+      <ThemeSpreadsheet
+        row_alternate="#ffffff07"
+        >
+        <space>
+          <ThemeSpaceGeneric
+            back="#444444"
+            title="#d4d4d4"
+            text="#e6e6e6"
+            text_hi="#ffffff"
+            header="#444444ff"
+            header_text="#eeeeee"
+            header_text_hi="#ffffff"
+            button="#444444ff"
+            button_title="#ffffff"
+            button_text="#e5e5e5"
+            button_text_hi="#ffffff"
+            navigation_bar="#373737ff"
+            execution_buts="#00000000"
+            tab_active="#5285a6"
+            tab_inactive="#444444"
+            tab_back="#444444ff"
+            tab_outline="#444444"
+            >
+            <panelcolors>
+              <ThemePanelColors
+                header="#424242cc"
+                back="#333333b3"
+                sub_back="#0000003e"
+                >
+              </ThemePanelColors>
+            </panelcolors>
+          </ThemeSpaceGeneric>
+        </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#424242"
+            list_title="#c3c3c3"
+            list_text="#c3c3c3"
+            list_text_hi="#00ffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
+      </ThemeSpreadsheet>
+    </spreadsheet>
     <bone_color_sets>
       <ThemeBoneColorSet
         normal="#9a0000"
@@ -1488,12 +1537,49 @@
         >
       </ThemeCollectionColor>
     </collection_color>
+    <strip_color>
+      <ThemeStripColor
+        color="#e2605b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1a355"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#f1dc55"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7bcc7b"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5db6ea"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#8d59da"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#c673b8"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#7a5441"
+        >
+      </ThemeStripColor>
+      <ThemeStripColor
+        color="#5f5f5f"
+        >
+      </ThemeStripColor>
+    </strip_color>
   </Theme>
   <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
         points="12"
-        font_kerning_style="FITTED"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="0"
@@ -1505,7 +1591,6 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="0"
@@ -1517,7 +1602,6 @@
     <widget>
       <ThemeFontStyle
         points="11"
-        font_kerning_style="FITTED"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="0"
