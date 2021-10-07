@@ -7,7 +7,11 @@ Modern themes for Blender 2.9
 
 **Piano White**
 
-![piano White](https://user-images.githubusercontent.com/54836559/79198299-3b066a80-7e6e-11ea-9829-c69c0e4cd6f6.png)
+![piano_white](https://user-images.githubusercontent.com/54836559/136322620-e9401954-0251-4bb8-85be-0df7a8f7cb33.png)
+
+**Blueberry**
+
+![Blueberry](https://user-images.githubusercontent.com/54836559/136322650-93c33c93-2589-4d0d-89e1-10cc08517eb1.png)
 
 **Choco Mint**
 
@@ -35,7 +39,7 @@ Modern themes for Blender 2.9
 
 **Pastel Pink**
 
-![Pastel Pink](https://user-images.githubusercontent.com/54836559/64172444-f6563200-ce8f-11e9-96f6-60ac34f83362.png)
+![pastel_pink](https://user-images.githubusercontent.com/54836559/136322663-694ae38f-b1d9-4611-a7e1-11c83ab02fb2.png)
 
 **True Black**
 
