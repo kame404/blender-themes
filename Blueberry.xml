@@ -1318,7 +1318,7 @@
     </statusbar>
     <spreadsheet>
       <ThemeSpreadsheet
-        row_alternate="#ffffff07"
+        row_alternate="#ffffff33"
         >
         <space>
           <ThemeSpaceGeneric
