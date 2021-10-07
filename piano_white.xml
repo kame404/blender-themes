@@ -426,7 +426,7 @@
           <ThemeSpaceGradient
             title="#303030"
             text="#303030"
-            text_hi="#000000"
+            text_hi="#ffffff"
             header="#dddddd00"
             header_text="#303030"
             header_text_hi="#ffffff"
@@ -469,7 +469,7 @@
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         window_sliders="#969696"
-        channels_region="#e3e3e3"
+        channels_region="#e0e0e0"
         dopesheet_channel="#c0c0c0"
         dopesheet_subchannel="#c0c0c0"
         channel_group="#c0c0c0"
@@ -551,7 +551,7 @@
             header="#ddddddff"
             header_text="#303030"
             header_text_hi="#ffffff"
-            button="#e5e5e500"
+            button="#d9d9d900"
             button_title="#303030"
             button_text="#303030"
             button_text_hi="#303030"
@@ -1176,7 +1176,7 @@
     </console>
     <clip_editor>
       <ThemeClipEditor
-        grid="#abababff"
+        grid="#e0e0e0ff"
         marker_outline="#000000"
         marker="#7f7f00"
         active_marker="#ffffff"
