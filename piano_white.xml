@@ -9,8 +9,8 @@
         widget_emboss="#00000001"
         editor_outline="#e5e5e5"
         widget_text_cursor="#3399e6"
-        transparent_checker_primary="#e5e5e5"
-        transparent_checker_secondary="#d9d9d9"
+        transparent_checker_primary="#e4e4e4"
+        transparent_checker_secondary="#d8d8d8"
         transparent_checker_size="8"
         axis_x="#ff3352"
         axis_y="#8bdc00"
@@ -762,7 +762,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#e5e5e5"
+            back="#e4e4e4"
             title="#303030"
             text="#303030"
             text_hi="#ffffff"

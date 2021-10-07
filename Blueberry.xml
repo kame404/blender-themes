@@ -9,8 +9,8 @@
         widget_emboss="#00000001"
         editor_outline="#decff2"
         widget_text_cursor="#3399e6"
-        transparent_checker_primary="#decff2"
-        transparent_checker_secondary="#cfb9eb"
+        transparent_checker_primary="#e4e4e4"
+        transparent_checker_secondary="#d8d8d8"
         transparent_checker_size="8"
         axis_x="#ff3352"
         axis_y="#8bdc00"
@@ -718,7 +718,7 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#ebe2f7ff"
+        grid="#ffffffff"
         vertex="#000000"
         vertex_select="#fa9900"
         vertex_active="#000000"
@@ -762,7 +762,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#decff2"
+            back="#e4e4e4"
             title="#47217A"
             text="#47217A"
             text_hi="#ffffff"
