@@ -17,14 +17,6 @@ Modern themes for Blender 2.9
 
 ![Choco Mint](https://user-images.githubusercontent.com/54836559/64172378-d6267300-ce8f-11e9-8878-fabcfd33f5e3.png)
 
-**Deep Ocean**
-
-![Deep Ocean](https://user-images.githubusercontent.com/54836559/64956504-b34f8200-d8c5-11e9-9b2d-31046e17e34c.png)
-
-**Flat Dark**
-
-![Flat Dark](https://user-images.githubusercontent.com/54836559/64172388-dd4d8100-ce8f-11e9-98cd-f4dc5d5f5014.png)
-
 **Maya**
 
 ![Maya](https://user-images.githubusercontent.com/54836559/64172409-e76f7f80-ce8f-11e9-8fa2-e2aac76a8eaf.png)
@@ -37,17 +29,18 @@ Modern themes for Blender 2.9
 
 ![Metaseq Classic](https://user-images.githubusercontent.com/54836559/64172427-edfdf700-ce8f-11e9-8710-d905effac629.png)
 
+**Midnight**
+
+![midnight](https://user-images.githubusercontent.com/54836559/136486943-e36769a2-ff60-45f7-9878-bc8df6c2b1a0.png)
+
 **Pastel Pink**
 
 ![pastel_pink](https://user-images.githubusercontent.com/54836559/136322663-694ae38f-b1d9-4611-a7e1-11c83ab02fb2.png)
 
-**True Black**
-
-![True Black](https://user-images.githubusercontent.com/54836559/64172452-fbb37c80-ce8f-11e9-91b1-31de10350e1a.png)
-
 **Volcano**
 
-![Volcano](https://user-images.githubusercontent.com/54836559/64172455-feae6d00-ce8f-11e9-94bc-68bf61462cfe.png)
+![volcano](https://user-images.githubusercontent.com/54836559/136486907-00ccc411-759c-46b1-94fd-aa8180d19f5e.png)
+
 
 ## Installation
 
