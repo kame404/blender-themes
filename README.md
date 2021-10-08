@@ -15,7 +15,7 @@ Modern themes for Blender 2.9
 
 **Choco Mint**
 
-![Choco Mint](https://user-images.githubusercontent.com/54836559/64172378-d6267300-ce8f-11e9-8878-fabcfd33f5e3.png)
+![choco_mint](https://user-images.githubusercontent.com/54836559/136504554-472cf5c3-d4a7-47f9-8bf2-0e0574a14bf3.png)
 
 **Maya**
 
