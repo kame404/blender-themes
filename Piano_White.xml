@@ -65,7 +65,7 @@
             outline="#d9d9d9"
             inner="#efefefff"
             inner_sel="#a0a0a0ff"
-            item="#efefefff"
+            item="#303030ff"
             text="#303030"
             text_sel="#ffffff"
             show_shaded="FALSE"
