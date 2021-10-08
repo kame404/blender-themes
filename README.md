@@ -54,7 +54,7 @@ Modern themes for Blender 3.0
 
 ## Installation
 
-* Clone or [download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
+* Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
 * Open Blender Preferences
 * Switch to the Themes section
 * Press the "Install" button and select XML file
