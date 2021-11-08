@@ -327,7 +327,7 @@
             inner_overridden="#19c3c3"
             inner_overridden_sel="#118f8f"
             inner_changed="#cc7529"
-            inner_changed_sel="#e6852d"
+            inner_changed_sel="#d26400"
             blend="0.5"
             >
           </ThemeWidgetStateColors>
@@ -356,23 +356,23 @@
         wire="#000000"
         wire_edit="#111111"
         gp_vertex="#000000"
-        gp_vertex_select="#f66913"
+        gp_vertex_select="#ff8500"
         gp_vertex_size="3"
         text_grease_pencil="#b5e61d"
-        object_selected="#f74018"
-        object_active="#fa9900"
+        object_selected="#ed5700"
+        object_active="#ffa028"
         text_keyframe="#ddd700"
         camera="#000000"
         empty="#000000"
         light="#00000028"
         speaker="#000000"
         vertex="#000000"
-        vertex_select="#f66913"
+        vertex_select="#ff7a00"
         vertex_active="#000000"
         vertex_size="3"
         vertex_bevel="#00a5ff"
         vertex_unreferenced="#000000"
-        edge_select="#f66913"
+        edge_select="#ffa000"
         edge_seam="#db2512"
         edge_sharp="#00ffff"
         edge_crease="#cc0099"
@@ -380,8 +380,8 @@
         edge_facesel="#4b4b4b"
         freestyle_edge_mark="#7fff7f"
         face="#00000012"
-        face_select="#f669134d"
-        face_dot="#f66913"
+        face_select="#ffa5522e"
+        face_dot="#ff8a00"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
         face_back="#ff0000b3"
@@ -474,10 +474,10 @@
         dopesheet_channel="#c0c0c0"
         dopesheet_subchannel="#c0c0c0"
         channel_group="#c0c0c0"
-        active_channels_group="#fa9900"
+        active_channels_group="#216d5b"
         preview_range="#00000050"
         vertex="#363636"
-        vertex_select="#fa9900"
+        vertex_select="#ff8500"
         vertex_active="#ffffff"
         vertex_size="10"
         vertex_bevel="#000000"
@@ -487,14 +487,14 @@
         handle_vect="#409030"
         handle_sel_vect="#40c030"
         handle_align="#803060"
-        handle_sel_free="#fa9900"
+        handle_sel_free="#000000"
         handle_sel_auto="#f0ff40"
         handle_sel_align="#f090a0"
         handle_auto_clamped="#994030"
         handle_sel_auto_clamped="#f0af90"
         lastsel_point="#2e2e2e"
         handle_vertex="#363636"
-        handle_vertex_select="#fa9900"
+        handle_vertex_select="#ff8500"
         handle_vertex_size="8"
         >
         <space>
@@ -585,13 +585,13 @@
         active_action_unset="#c0c0c050"
         preview_range="#00000050"
         strips="#546e7a"
-        strips_selected="#90a4ae"
+        strips_selected="#ff8c00"
         transition_strips="#d81b60"
-        transition_strips_selected="#f06292"
+        transition_strips_selected="#2e75db"
         meta_strips="#c0ca33"
-        meta_strips_selected="#dce775"
-        sound_strips="#00897b"
-        sound_strips_selected="#4db6ac"
+        meta_strips_selected="#692196"
+        sound_strips="#2b3d3d"
+        sound_strips_selected="#1f7a7a"
         tweak="#4df31a"
         tweak_duplicate="#d90000"
         keyframe_border="#000000ff"
@@ -1012,12 +1012,12 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#b9dce1"
+        match="#337f33"
         selected_highlight="#c0c0c0"
         active="#a0a0a0"
         selected_object="#ffffff"
         active_object="#ffffff"
-        edited_object="#f6691350"
+        edited_object="#00806266"
         row_alternate="#00000005"
         >
         <space>
@@ -1056,17 +1056,17 @@
       <ThemeInfo
         info_selected="#363636"
         info_selected_text="#ffffff"
-        info_error="#eca4baff"
+        info_error="#b34c34ff"
         info_error_text="#ff1961"
-        info_warning="#dfc890ff"
+        info_warning="#ac8737ff"
         info_warning_text="#ad4000"
-        info_info="#b6d180ff"
+        info_info="#1f3862ff"
         info_info_text="#303030"
-        info_debug="#d2d2d2ff"
+        info_debug="#6b3293ff"
         info_debug_text="#020202"
-        info_property="#3ace87ff"
+        info_property="#236666ff"
         info_property_text="#ffffff"
-        info_operator="#3ace87ff"
+        info_operator="#235266ff"
         info_operator_text="#ffffff"
         >
         <space>
@@ -1578,37 +1578,37 @@
       </ThemeStripColor>
     </strip_color>
   </Theme>
-  <ThemeStyle>
+<ThemeStyle>
     <panel_title>
       <ThemeFontStyle
-        points="12"
+        points="11"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="0"
         shadow_alpha="0"
-        shadow_value="1"
+        shadow_value="0"
         >
       </ThemeFontStyle>
     </panel_title>
     <widget_label>
       <ThemeFontStyle
         points="11"
-        shadow="0"
+        shadow="03"
         shadow_offset_x="0"
         shadow_offset_y="0"
         shadow_alpha="0"
-        shadow_value="1"
+        shadow_value="0"
         >
       </ThemeFontStyle>
     </widget_label>
     <widget>
       <ThemeFontStyle
         points="11"
-        shadow="0"
+        shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="0"
         shadow_alpha="0"
-        shadow_value="1"
+        shadow_value="0"
         >
       </ThemeFontStyle>
     </widget>
