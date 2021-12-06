@@ -35,7 +35,7 @@
           <ThemeWidgetColors
             outline="#d9d9d9"
             inner="#efefefff"
-            inner_sel="#363636ff"
+            inner_sel="#a0a0a0ff"
             item="#363636ff"
             text="#303030"
             text_sel="#ffffff"
@@ -1578,7 +1578,7 @@
       </ThemeStripColor>
     </strip_color>
   </Theme>
-<ThemeStyle>
+  <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
         points="11"
@@ -1593,7 +1593,7 @@
     <widget_label>
       <ThemeFontStyle
         points="11"
-        shadow="03"
+        shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="0"
         shadow_alpha="0"
