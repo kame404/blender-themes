@@ -1,7 +1,7 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 3.0
+Modern themes for Blender 3.1
 
 [Download](https://github.com/kame404/Blender-Themes/archive/master.zip)
  
