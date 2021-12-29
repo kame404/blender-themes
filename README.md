@@ -47,10 +47,6 @@ Modern themes for Blender 3.0
 
 ![professional](https://user-images.githubusercontent.com/54836559/136546453-d44881d8-62b8-4a5e-b2af-bb773f80e63a.png)
 
-**Volcano**
-
-![volcano](https://user-images.githubusercontent.com/54836559/136486907-00ccc411-759c-46b1-94fd-aa8180d19f5e.png)
-
 
 ## Installation
 
