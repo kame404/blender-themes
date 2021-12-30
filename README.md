@@ -9,44 +9,47 @@ Modern themes for Blender 3.1
 
 **Piano White**
 
-![piano_white](https://user-images.githubusercontent.com/54836559/136322620-e9401954-0251-4bb8-85be-0df7a8f7cb33.png)
+![Themes010](https://user-images.githubusercontent.com/54836559/147719608-adc0d8eb-b190-4a81-ad00-fb0758c9c532.png)
 
 **Blueberry**
 
-![Blueberry](https://user-images.githubusercontent.com/54836559/136322650-93c33c93-2589-4d0d-89e1-10cc08517eb1.png)
+![Themes001](https://user-images.githubusercontent.com/54836559/147719624-fd488e02-7b9f-4589-ac72-badb0cb4e2f9.png)
 
 **Choco Mint**
 
-![choco_mint](https://user-images.githubusercontent.com/54836559/136504554-472cf5c3-d4a7-47f9-8bf2-0e0574a14bf3.png)
+![Themes002](https://user-images.githubusercontent.com/54836559/147719632-14f14302-4c1f-468e-a7ef-68f512ac8cbb.png)
+
+**Graphite**
+
+![Themes003](https://user-images.githubusercontent.com/54836559/147719730-8b530c54-abd0-4ebc-bcf0-8e53efbc423a.png)
 
 **Maya**
 
-![Maya](https://user-images.githubusercontent.com/54836559/64172409-e76f7f80-ce8f-11e9-8fa2-e2aac76a8eaf.png)
+![Themes004](https://user-images.githubusercontent.com/54836559/147719646-e2d4bdaa-82f1-4626-b602-cef22c58bc38.png)
 
 **Metaseq**
 
-![Metaseq](https://user-images.githubusercontent.com/54836559/64172420-eb9b9d00-ce8f-11e9-951f-3d06c24e28bb.png)
+![Themes005](https://user-images.githubusercontent.com/54836559/147719652-862b5942-ea86-4e2d-862c-820c0dd6ceb5.png)
 
 **Metaseq Classic**
 
-![Metaseq Classic](https://user-images.githubusercontent.com/54836559/64172427-edfdf700-ce8f-11e9-8710-d905effac629.png)
+![Themes006](https://user-images.githubusercontent.com/54836559/147719658-d67d6424-980a-42a8-9e7f-79cf5cab7442.png)
 
 **Midnight**
 
-![midnight](https://user-images.githubusercontent.com/54836559/136486943-e36769a2-ff60-45f7-9878-bc8df6c2b1a0.png)
+![Themes007](https://user-images.githubusercontent.com/54836559/147719668-b3b6c67a-a5dd-41be-bac7-adb1b122266e.png)
 
 **Pastel Pink**
 
-![pastel_pink](https://user-images.githubusercontent.com/54836559/136322663-694ae38f-b1d9-4611-a7e1-11c83ab02fb2.png)
+![Themes008](https://user-images.githubusercontent.com/54836559/147719681-cdc8aca2-d484-412c-a7a1-8c8d4fe43af4.png)
 
 **Peach**
 
-![peach](https://user-images.githubusercontent.com/54836559/136546514-7a35e166-6d1d-4433-91ac-5b647cfd692a.png)
+![Themes009](https://user-images.githubusercontent.com/54836559/147719695-dd51ff41-8237-4579-900d-34b512c419f1.png)
 
 **Professional**
 
-![professional](https://user-images.githubusercontent.com/54836559/136546453-d44881d8-62b8-4a5e-b2af-bb773f80e63a.png)
-
+![Themes011](https://user-images.githubusercontent.com/54836559/147719709-1ea5d37b-c018-437e-811d-d462d541cbf5.png)
 
 ## Installation
 
