@@ -6,15 +6,15 @@ Modern themes for Blender 3.1
 ## Installation
 
 * Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
-* Open Blender Preferences (Edit > Preferences)
-* Switch to the Themes section
-* Press the "Install" button and select XML file
+* Open Blender Preferences (`Edit` > `Preferences`)
+* Switch to `Themes` section
+* Press `Install` button and select XML file
  
 ## Screenshots
 
 **Piano White**
 
-![Themes010](https://user-images.githubusercontent.com/54836559/147719608-adc0d8eb-b190-4a81-ad00-fb0758c9c532.png)
+![Piano_White](https://user-images.githubusercontent.com/54836559/147738385-8881a699-57da-433f-b58c-035ef10e3748.png)
 
 **Blueberry**
 
@@ -59,9 +59,9 @@ Modern themes for Blender 3.1
 ## Installation
 
 * Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
-* Open Blender Preferences (Edit > Preferences)
-* Switch to the Themes section
-* Press the "Install" button and select XML file
+* Open Blender Preferences (`Edit` > `Preferences`)
+* Switch to `Themes` section
+* Press `Install` button and select XML file
 
 ## Licence
 
