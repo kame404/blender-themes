@@ -6,7 +6,7 @@ Modern themes for Blender 3.1
 ## Installation
 
 * Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
-* Open Blender Preferences
+* Open Blender Preferences (Edit > Preferences)
 * Switch to the Themes section
 * Press the "Install" button and select XML file
  
@@ -59,7 +59,7 @@ Modern themes for Blender 3.1
 ## Installation
 
 * Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
-* Open Blender Preferences
+* Open Blender Preferences (Edit > Preferences)
 * Switch to the Themes section
 * Press the "Install" button and select XML file
 
