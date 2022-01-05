@@ -159,8 +159,8 @@
     </properties>
     <outliner>
       <ThemeOutliner
-        selected_highlight="#312e81"
-        active="#3730a3"
+        selected_highlight="#201c5c"
+        active="#2f2a89"
         >
       </ThemeOutliner>
     </outliner>
