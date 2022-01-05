@@ -58,7 +58,7 @@ Modern themes for Blender 3.1
 
 **AccentColor**
 
-![AccentColor](https://user-images.githubusercontent.com/54836559/147848804-acfdfe3f-137f-4ae1-9cd2-fb1af6a06018.gif)
+![AccentColor](https://user-images.githubusercontent.com/54836559/148168070-6e2b44cb-7f46-440b-bdf7-79acc0f849e1.gif)
 
 `AccentColor` is a minimal set of xml files that change the accent color of Blender's default theme.
 
