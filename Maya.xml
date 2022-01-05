@@ -335,7 +335,7 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#2e2e2e"
-            inner="#444444ff"
+            inner="#373737ff"
             inner_sel="#5285a6ff"
             item="#444444ff"
             text="#bdbdbd"
@@ -466,7 +466,7 @@
       <ThemeGraphEditor
         grid="#484848"
         frame_current="#ffff00"
-        time_scrub_background="#292929e6"
+        time_scrub_background="#323232ff"
         time_marker_line="#ffffff4d"
         time_marker_line_selected="#ffffffb3"
         window_sliders="#969696"
@@ -499,13 +499,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#373737"
+            back="#404040"
             title="#ffffff"
             text="#858585"
             text_hi="#000000"
             header="#444444ff"
             header_text="#eeeeee"
-            header_text_hi="#ffffff"
+            header_text_hi="#000000"
             button="#444444ff"
             button_title="#ffffff"
             button_text="#e5e5e5"
@@ -529,7 +529,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#444444"
+            list="#373737"
             list_title="#ffffff"
             list_text="#b8b8b8"
             list_text_hi="#ffffff"
@@ -596,7 +596,7 @@
         tweak_duplicate="#d90000"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
-        frame_current="#5285a6"
+        frame_current="#525252"
         time_scrub_background="#292929e6"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
@@ -645,7 +645,7 @@
     <dopesheet_editor>
       <ThemeDopeSheet
         grid="#484848"
-        frame_current="#5285a6"
+        frame_current="#525252"
         time_scrub_background="#292929e6"
         time_marker_line="#ffffff4d"
         time_marker_line_selected="#ffffffb3"
@@ -719,23 +719,23 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#2b2b2bff"
+        grid="#37373766"
         vertex="#000000"
-        vertex_select="#5285a6"
+        vertex_select="#ffff00"
         vertex_active="#000000"
-        vertex_size="3"
+        vertex_size="2"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
-        face="#ffffff0a"
-        face_select="#5285a63c"
+        face="#ffffff05"
+        face_select="#e4ac7980"
         face_dot="#5285a6"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
         face_back="#00000000"
         face_front="#00000000"
         editmesh_active="#ffffff80"
-        wire_edit="#c0c0c0"
-        edge_select="#5285a6"
+        wire_edit="#64dcff"
+        edge_select="#e4ac79"
         scope_back="#727272ff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
@@ -744,7 +744,7 @@
         preview_stitch_unstitchable="#ff0000ff"
         preview_stitch_active="#e1d2c323"
         uv_shadow="#707070ff"
-        frame_current="#60c040"
+        frame_current="#525252"
         metadatabg="#000000"
         metadatatext="#ffffff"
         handle_free="#000000"
@@ -763,7 +763,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#2b2b2b"
+            back="#5c5c5c"
             title="#eeeeee"
             text="#e6e6e6"
             text_hi="#ffffff"
@@ -809,7 +809,7 @@
         text_strip="#824c8f"
         active_strip="#d9d9d9"
         selected_strip="#ff8f0d"
-        frame_current="#5285a6"
+        frame_current="#525252"
         time_scrub_background="#292929e6"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
@@ -1014,7 +1014,7 @@
       <ThemeOutliner
         match="#337f33"
         selected_highlight="#5285a6"
-        active="#3b5689"
+        active="#5285a6"
         selected_object="#ffffff"
         active_object="#43ffa3"
         edited_object="#00806266"
@@ -1024,7 +1024,7 @@
           <ThemeSpaceGeneric
             back="#444444"
             title="#ffffff"
-            text="#c3c3c3"
+            text="#e5e5e5"
             text_hi="#ffffff"
             header="#444444ff"
             header_text="#eeeeee"
@@ -1189,7 +1189,7 @@
         path_after="#0000ff"
         path_keyframe_before="#ffc4c4"
         path_keyframe_after="#c4c4ff"
-        frame_current="#5285a6"
+        frame_current="#525252"
         time_scrub_background="#292929e6"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
