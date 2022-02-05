@@ -16,9 +16,9 @@ Modern themes for Blender 3.1
 
 ![Piano_White](https://user-images.githubusercontent.com/54836559/147738385-8881a699-57da-433f-b58c-035ef10e3748.png)
 
-**Blueberry**
+**Amethyst**
 
-![Themes001](https://user-images.githubusercontent.com/54836559/147719624-fd488e02-7b9f-4589-ac72-badb0cb4e2f9.png)
+![Amethyst](https://user-images.githubusercontent.com/54836559/152630203-68af694e-507f-4835-862b-e3a652aea9ec.png)
 
 **Choco Mint**
 
