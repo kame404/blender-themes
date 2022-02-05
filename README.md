@@ -14,47 +14,47 @@ Modern themes for Blender 3.1
 
 **Piano White**
 
-![Piano_White](https://user-images.githubusercontent.com/54836559/147738385-8881a699-57da-433f-b58c-035ef10e3748.png)
+![Themes010](https://user-images.githubusercontent.com/54836559/152630490-a87799a8-f032-4ff2-a61f-56b528a37215.png)
 
 **Amethyst**
 
-![Amethyst](https://user-images.githubusercontent.com/54836559/152630203-68af694e-507f-4835-862b-e3a652aea9ec.png)
+![Themes001](https://user-images.githubusercontent.com/54836559/152630494-daad7aa9-7f1b-427f-8423-031154f2feba.png)
 
 **Choco Mint**
 
-![Themes002](https://user-images.githubusercontent.com/54836559/147719632-14f14302-4c1f-468e-a7ef-68f512ac8cbb.png)
+![Themes002](https://user-images.githubusercontent.com/54836559/152630496-e983e863-84bf-4b5b-8c75-588c07fa378d.png)
 
 **Graphite**
 
-![Themes003](https://user-images.githubusercontent.com/54836559/147719730-8b530c54-abd0-4ebc-bcf0-8e53efbc423a.png)
+![Themes003](https://user-images.githubusercontent.com/54836559/152630500-87b52cb7-20de-406d-9036-550bce23f828.png)
 
 **Maya**
 
-![Themes004](https://user-images.githubusercontent.com/54836559/147719646-e2d4bdaa-82f1-4626-b602-cef22c58bc38.png)
+![Themes004](https://user-images.githubusercontent.com/54836559/152630505-14dfb733-a3f4-49f7-801b-6f9edbd84ad0.png)
 
 **Metaseq**
 
-![Themes005](https://user-images.githubusercontent.com/54836559/147719652-862b5942-ea86-4e2d-862c-820c0dd6ceb5.png)
+![Themes005](https://user-images.githubusercontent.com/54836559/152630508-cf67fba3-9dec-47f6-8779-49a3f5b6ff76.png)
 
 **Metaseq Classic**
 
-![Themes006](https://user-images.githubusercontent.com/54836559/147719658-d67d6424-980a-42a8-9e7f-79cf5cab7442.png)
+![Themes006](https://user-images.githubusercontent.com/54836559/152630510-eb9c0bef-433f-4380-bca1-01ef949f9f9e.png)
 
 **Midnight**
 
-![Themes007](https://user-images.githubusercontent.com/54836559/147719668-b3b6c67a-a5dd-41be-bac7-adb1b122266e.png)
+![Themes007](https://user-images.githubusercontent.com/54836559/152630512-898e8918-8945-42e2-89b0-2588f8645d1f.png)
 
 **Pastel Pink**
 
-![Themes008](https://user-images.githubusercontent.com/54836559/147719681-cdc8aca2-d484-412c-a7a1-8c8d4fe43af4.png)
+![Themes008](https://user-images.githubusercontent.com/54836559/152630516-d51fc1b5-3bc8-4187-9d5c-81d67c1ab526.png)
 
 **Peach**
 
-![Themes009](https://user-images.githubusercontent.com/54836559/147719695-dd51ff41-8237-4579-900d-34b512c419f1.png)
+![Themes009](https://user-images.githubusercontent.com/54836559/152630521-016ecd43-2623-4f93-b402-b01a73a7e812.png)
 
 **Professional**
 
-![Themes011](https://user-images.githubusercontent.com/54836559/147719709-1ea5d37b-c018-437e-811d-d462d541cbf5.png)
+![Themes011](https://user-images.githubusercontent.com/54836559/152630523-d5c4ac33-69f9-4b3f-ab45-1490b80f991f.png)
 
 **AccentColor**
 
