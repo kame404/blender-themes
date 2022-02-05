@@ -22,7 +22,7 @@ Modern themes for Blender 3.1
 
 **Choco Mint**
 
-![Themes002](https://user-images.githubusercontent.com/54836559/152630496-e983e863-84bf-4b5b-8c75-588c07fa378d.png)
+![Themes002](https://user-images.githubusercontent.com/54836559/152636976-1a30b21d-bed8-4f15-a727-7da46053124b.png)
 
 **Graphite**
 
