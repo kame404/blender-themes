@@ -24,6 +24,10 @@ Modern themes for Blender 3.1
 
 ![Themes002](https://user-images.githubusercontent.com/54836559/152636976-1a30b21d-bed8-4f15-a727-7da46053124b.png)
 
+**Emerald**
+
+![Themes009](https://user-images.githubusercontent.com/54836559/152638769-2949ee4f-47a9-4c1f-b968-a735c1d7e40f.png)
+
 **Graphite**
 
 ![Themes003](https://user-images.githubusercontent.com/54836559/152630500-87b52cb7-20de-406d-9036-550bce23f828.png)
@@ -47,10 +51,6 @@ Modern themes for Blender 3.1
 **Pastel Pink**
 
 ![Themes008](https://user-images.githubusercontent.com/54836559/152630516-d51fc1b5-3bc8-4187-9d5c-81d67c1ab526.png)
-
-**Peach**
-
-![Themes009](https://user-images.githubusercontent.com/54836559/152630521-016ecd43-2623-4f93-b402-b01a73a7e812.png)
 
 **Professional**
 
