@@ -709,9 +709,9 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#dfdfdf"
-            list_title="#d4d4d4"
-            list_text="#d4d4d4"
-            list_text_hi="#ffffff"
+            list_title="#303030"
+            list_text="#505050"
+            list_text_hi="#020202"
             >
           </ThemeSpaceListGeneric>
         </space_list>
@@ -851,6 +851,15 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#dfdfdf"
+            list_title="#303030"
+            list_text="#505050"
+            list_text_hi="#020202"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>

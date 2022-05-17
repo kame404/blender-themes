@@ -851,6 +851,15 @@
             </panelcolors>
           </ThemeSpaceGeneric>
         </space>
+        <space_list>
+          <ThemeSpaceListGeneric
+            list="#221e31"
+            list_title="#ffffff"
+            list_text="#ffffff"
+            list_text_hi="#ffffff"
+            >
+          </ThemeSpaceListGeneric>
+        </space_list>
       </ThemeSequenceEditor>
     </sequence_editor>
     <properties>
