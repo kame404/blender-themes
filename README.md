@@ -1,7 +1,7 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 3.1
+Modern themes for Blender 3.3
 
 ## Installation
 
