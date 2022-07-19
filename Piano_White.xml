@@ -960,7 +960,7 @@
         color_node="#ccb83d"
         group_node="#5f943c"
         group_socket_node="#b6b6b6"
-        frame_node="#1a1a1acc"
+        frame_node="#00000016"
         matte_node="#975b5b"
         distor_node="#749797"
         noodle_curving="4"
