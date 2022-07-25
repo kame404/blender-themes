@@ -106,6 +106,13 @@
             >
           </ThemeWidgetColors>
         </wcol_list_item>
+        <wcol_view_item>
+          <ThemeWidgetColors
+            inner_sel="#db2777ff"
+            item="#db2777ff"
+            >
+          </ThemeWidgetColors>
+        </wcol_view_item>
       </ThemeUserInterface>
     </user_interface>
     <view_3d>
