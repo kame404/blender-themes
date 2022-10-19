@@ -879,7 +879,7 @@
     </sequence_editor>
     <properties>
       <ThemeProperties
-        match="#5680c2"
+        match="#e35289"
         active_modifier="#b63a69ff"
         >
         <space>
@@ -966,7 +966,7 @@
         grid="#ed8cb0"
         node_selected="#ed5700"
         node_active="#ffffff"
-        wire="#232323"
+        wire="#232323ff"
         wire_inner="#808080"
         wire_select="#ffffffb3"
         selected_text="#7f7070"
@@ -1081,13 +1081,13 @@
         info_selected="#b63a69"
         info_selected_text="#ffffff"
         info_error="#b34c34ff"
-        info_error_text="#ff1961"
+        info_error_text="#ffffff"
         info_warning="#ac8737ff"
-        info_warning_text="#ad4000"
+        info_warning_text="#ffffff"
         info_info="#1f3862ff"
-        info_info_text="#5c0a29"
+        info_info_text="#ffffff"
         info_debug="#6b3293ff"
-        info_debug_text="#020202"
+        info_debug_text="#ffffff"
         info_property="#236666ff"
         info_property_text="#ffffff"
         info_operator="#235266ff"
