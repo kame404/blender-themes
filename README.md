@@ -15,47 +15,47 @@ Modern themes for Blender 3.6 Alpha
 
 **Piano White**
 
-![Themes010](https://user-images.githubusercontent.com/54836559/152630490-a87799a8-f032-4ff2-a61f-56b528a37215.png)
+![PianoWhite](https://user-images.githubusercontent.com/54836559/219700177-5745d554-027a-4ef7-9760-f4abdc3d8d0c.png)
 
 **Amethyst**
 
-![Themes001](https://user-images.githubusercontent.com/54836559/152630494-daad7aa9-7f1b-427f-8423-031154f2feba.png)
+![Amethyst](https://user-images.githubusercontent.com/54836559/219700229-3915d426-9597-47ff-8ee1-083045097c39.png)
 
 **Choco Mint**
 
-![Themes002](https://user-images.githubusercontent.com/54836559/152636976-1a30b21d-bed8-4f15-a727-7da46053124b.png)
+![ChocoMint](https://user-images.githubusercontent.com/54836559/219700374-b8d44dc2-95fd-4a64-b095-8142bfc15fa3.png)
 
 **Emerald**
 
-![Themes009](https://user-images.githubusercontent.com/54836559/152638769-2949ee4f-47a9-4c1f-b968-a735c1d7e40f.png)
+![Emerald](https://user-images.githubusercontent.com/54836559/219700407-d18d8252-0cd2-4242-bf71-b261c20b165e.png)
 
 **Graphite**
 
-![Themes003](https://user-images.githubusercontent.com/54836559/152630500-87b52cb7-20de-406d-9036-550bce23f828.png)
+![Graphite](https://user-images.githubusercontent.com/54836559/219700427-5db7d9f8-41f5-47cb-9c97-6d3a96aaacfb.png)
 
 **Maya**
 
-![Themes004](https://user-images.githubusercontent.com/54836559/152630505-14dfb733-a3f4-49f7-801b-6f9edbd84ad0.png)
+![Maya](https://user-images.githubusercontent.com/54836559/219700459-7a35f5d9-2eac-4561-8433-73a8a47cd103.png)
 
 **Metaseq**
 
-![Themes005](https://user-images.githubusercontent.com/54836559/152630508-cf67fba3-9dec-47f6-8779-49a3f5b6ff76.png)
+![Metaseq](https://user-images.githubusercontent.com/54836559/219700491-a3f1190f-0602-4d98-bc60-2d28adbe4204.png)
 
 **Metaseq Classic**
 
-![Themes006](https://user-images.githubusercontent.com/54836559/152630510-eb9c0bef-433f-4380-bca1-01ef949f9f9e.png)
+![MetaseqClassic](https://user-images.githubusercontent.com/54836559/219700524-1d72a47e-1c99-4968-8888-9594a58c339a.png)
 
 **Midnight**
 
-![Themes007](https://user-images.githubusercontent.com/54836559/152630512-898e8918-8945-42e2-89b0-2588f8645d1f.png)
+![Midnight](https://user-images.githubusercontent.com/54836559/219700550-837362bf-8d8f-412e-8fff-54b8a2f6f661.png)
 
 **Pastel Pink**
 
-![Themes008](https://user-images.githubusercontent.com/54836559/152630516-d51fc1b5-3bc8-4187-9d5c-81d67c1ab526.png)
+![PastelPink](https://user-images.githubusercontent.com/54836559/219700576-83a770c2-bb43-4eea-b6cf-a76db62c09b5.png)
 
 **Professional**
 
-![Themes011](https://user-images.githubusercontent.com/54836559/152630523-d5c4ac33-69f9-4b3f-ab45-1490b80f991f.png)
+![Professional](https://user-images.githubusercontent.com/54836559/219700606-5033e80f-8971-4e82-b57d-a67b918a6e27.png)
 
 **AccentColor**
 
