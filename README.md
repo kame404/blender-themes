@@ -1,11 +1,12 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 3.4
+Modern themes for Blender 3.6 Alpha
+
 
 ## Installation
 
-* Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
+* Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/main.zip)
 * Open Blender Preferences (`Edit` > `Preferences`)
 * Switch to `Themes` section
 * Press `Install` button and select XML file
@@ -62,16 +63,18 @@ Modern themes for Blender 3.4
 
 `AccentColor` is a minimal set of xml files that change the accent color of Blender's default theme.
 
+You can also customize your own original theme by choosing any accent color you like on [themes.kame404.com](https://themes.kame404.com/).
+
 ## Installation
 
-* Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/master.zip)
+* Clone or [Download ZIP](https://github.com/kame404/Blender-Themes/archive/main.zip)
 * Open Blender Preferences (`Edit` > `Preferences`)
 * Switch to `Themes` section
 * Press `Install` button and select XML file
 
 ## Licence
 
-[GPL-3.0](https://github.com/kame404/Blender-Themes/blob/master/LICENSE)
+[GPL-3.0](https://github.com/kame404/Blender-Themes/blob/main/LICENSE)
 
 ## Author
 
