@@ -1,7 +1,7 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 3.6 Alpha
+Modern themes for Blender 4.2 Alpha
 
 
 ## Installation
