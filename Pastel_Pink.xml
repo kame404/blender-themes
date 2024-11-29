@@ -7,7 +7,9 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#00000001"
-        editor_outline="#f7d0df"
+        editor_border="#f7d0df"
+        editor_outline="#f7d0df15"
+        editor_outline_active="#ffffff2a"
         widget_text_cursor="#3399e6"
         panel_roundness="0.4"
         transparent_checker_primary="#e4e4e4"
@@ -1016,6 +1018,7 @@
         attribute_node="#6591ce"
         simulation_zone="#66416233"
         repeat_zone="#76512f33"
+        foreach_geometry_element_zone="#33527f33"
         >
         <space>
           <ThemeSpaceGeneric
