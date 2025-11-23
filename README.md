@@ -1,7 +1,7 @@
 Blender-Themes
 ====
 
-Modern themes for Blender 4.5 Alpha
+Modern themes for Blender 5.1 Alpha
 
 
 ## Installation
