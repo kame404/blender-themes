@@ -239,10 +239,10 @@
             outline="#01010112"
             outline_sel="#dbdbdb00"
             inner="#ecececb3"
-            inner_sel="#fefefe1a"
+            inner_sel="#1e293bff"
             item="#e0e0e08f"
             text="#323232"
-            text_sel="#010101"
+            text_sel="#fefefe"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -592,7 +592,7 @@
     <file_browser>
       <ThemeFileBrowser
         selected_file="#9ca3af"
-        row_alternate="#fefefe04"
+        row_alternate="#fefefe40"
         >
         <space>
           <ThemeSpaceGeneric
@@ -844,7 +844,7 @@
         selected_object="#e96a00"
         active_object="#ffaf29"
         edited_object="#00806266"
-        row_alternate="#fefefe04"
+        row_alternate="#fefefe40"
         >
         <space>
           <ThemeSpaceGeneric
@@ -991,7 +991,7 @@
     </statusbar>
     <spreadsheet>
       <ThemeSpreadsheet
-        row_alternate="#fefefe04"
+        row_alternate="#fefefe40"
         >
         <space>
           <ThemeSpaceGeneric
