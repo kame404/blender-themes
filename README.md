@@ -15,47 +15,47 @@ Modern themes for Blender 5.1 Alpha
 
 **Piano White**
 
-![PianoWhite](https://user-images.githubusercontent.com/54836559/219700177-5745d554-027a-4ef7-9760-f4abdc3d8d0c.png)
+<img width="960" height="540" alt="Piano_White" src="https://github.com/user-attachments/assets/7f44f47d-c015-4ddc-b0ac-401b337340b9" />
 
 **Amethyst**
 
-![Amethyst](https://user-images.githubusercontent.com/54836559/219700229-3915d426-9597-47ff-8ee1-083045097c39.png)
+<img width="960" height="540" alt="Amethyst" src="https://github.com/user-attachments/assets/6ec4b906-2f6f-4e16-b03c-dfbf2d43eae5" />
 
 **Choco Mint**
 
-![ChocoMint](https://user-images.githubusercontent.com/54836559/219700374-b8d44dc2-95fd-4a64-b095-8142bfc15fa3.png)
+<img width="960" height="540" alt="Choco_Mint" src="https://github.com/user-attachments/assets/98517452-cada-4f4f-9945-a4158c8350d7" />
 
 **Emerald**
 
-![Emerald](https://user-images.githubusercontent.com/54836559/219700407-d18d8252-0cd2-4242-bf71-b261c20b165e.png)
+<img width="960" height="540" alt="Emerald" src="https://github.com/user-attachments/assets/2f73b406-169a-4410-949e-61cebda7d3ea" />
 
 **Graphite**
 
-![Graphite](https://user-images.githubusercontent.com/54836559/219700427-5db7d9f8-41f5-47cb-9c97-6d3a96aaacfb.png)
+<img width="960" height="540" alt="Graphite" src="https://github.com/user-attachments/assets/0f967cba-7f7b-4d45-ac79-6d52e0356d22" />
 
 **Maya**
 
-![Maya](https://user-images.githubusercontent.com/54836559/219700459-7a35f5d9-2eac-4561-8433-73a8a47cd103.png)
+<img width="960" height="540" alt="Maya" src="https://github.com/user-attachments/assets/769b2afa-6792-4556-b7e7-dc9d2cd137c1" />
 
 **Metaseq**
 
-![Metaseq](https://user-images.githubusercontent.com/54836559/219700491-a3f1190f-0602-4d98-bc60-2d28adbe4204.png)
+<img width="960" height="540" alt="Metaseq" src="https://github.com/user-attachments/assets/27b76c61-e4d4-444f-95a0-9700c97184e8" />
 
 **Metaseq Classic**
 
-![MetaseqClassic](https://user-images.githubusercontent.com/54836559/219700524-1d72a47e-1c99-4968-8888-9594a58c339a.png)
+<img width="960" height="540" alt="Metaseq_Classic" src="https://github.com/user-attachments/assets/60aa0e46-7e36-404d-be7a-28e2e9f36f7e" />
 
 **Midnight**
 
-![Midnight](https://user-images.githubusercontent.com/54836559/219700550-837362bf-8d8f-412e-8fff-54b8a2f6f661.png)
+<img width="960" height="540" alt="Midnight" src="https://github.com/user-attachments/assets/44b2c615-8391-4e03-8fde-af8135acae6e" />
 
 **Pastel Pink**
 
-![PastelPink](https://user-images.githubusercontent.com/54836559/219700576-83a770c2-bb43-4eea-b6cf-a76db62c09b5.png)
+<img width="960" height="540" alt="Pastel_Pink" src="https://github.com/user-attachments/assets/ed09fb1a-b8cf-40cb-8330-64e10d061709" />
 
 **Professional**
 
-![Professional](https://user-images.githubusercontent.com/54836559/219700606-5033e80f-8971-4e82-b57d-a67b918a6e27.png)
+<img width="960" height="540" alt="Professional" src="https://github.com/user-attachments/assets/93fb0fd1-c8e5-4339-a0e8-1476991e0ec0" />
 
 **AccentColor**
 
