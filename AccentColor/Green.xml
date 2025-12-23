@@ -2,6 +2,7 @@
   <Theme>
     <user_interface>
       <ThemeUserInterface
+        panel_active="#16a34aff"
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -27,12 +28,6 @@
             >
           </ThemeWidgetColors>
         </wcol_radio>
-        <wcol_text>
-          <ThemeWidgetColors
-            item="#16a34aff"
-            >
-          </ThemeWidgetColors>
-        </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
             inner_sel="#16a34aff"
@@ -63,12 +58,6 @@
             >
           </ThemeWidgetColors>
         </wcol_menu>
-        <wcol_pulldown>
-          <ThemeWidgetColors
-            inner_sel="#16a34ab3"
-            >
-          </ThemeWidgetColors>
-        </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors
             inner_sel="#16a34aff"
@@ -102,65 +91,31 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            item="#16a34aff"
+            inner_sel="#16a34aff"
             >
           </ThemeWidgetColors>
         </wcol_list_item>
-        <wcol_view_item>
-          <ThemeWidgetColors
-            inner_sel="#16a34aff"
-            item="#16a34aff"
-            >
-          </ThemeWidgetColors>
-        </wcol_view_item>
       </ThemeUserInterface>
     </user_interface>
-    <view_3d>
-      <ThemeView3D
-        frame_current="#16a34a"
-        >
-      </ThemeView3D>
-    </view_3d>
-    <graph_editor>
-      <ThemeGraphEditor
-        frame_current="#16a34a"
-        >
-      </ThemeGraphEditor>
-    </graph_editor>
+    <common>
+      <ThemeCommon>
+        <anim>
+          <ThemeCommonAnim
+            playhead="#16a34a"
+            >
+          </ThemeCommonAnim>
+        </anim>
+      </ThemeCommon>
+    </common>
     <file_browser>
       <ThemeFileBrowser
         selected_file="#16a34a"
         >
       </ThemeFileBrowser>
     </file_browser>
-    <nla_editor>
-      <ThemeNLAEditor
-        frame_current="#16a34a"
-        >
-      </ThemeNLAEditor>
-    </nla_editor>
-    <dopesheet_editor>
-      <ThemeDopeSheet
-        frame_current="#16a34a"
-        >
-      </ThemeDopeSheet>
-    </dopesheet_editor>
-    <image_editor>
-      <ThemeImageEditor
-        frame_current="#16a34a"
-        >
-      </ThemeImageEditor>
-    </image_editor>
-    <sequence_editor>
-      <ThemeSequenceEditor
-        frame_current="#16a34a"
-        >
-      </ThemeSequenceEditor>
-    </sequence_editor>
     <properties>
       <ThemeProperties
         match="#16a34a"
-        active_modifier="#16a34aff"
         >
       </ThemeProperties>
     </properties>
@@ -171,13 +126,5 @@
         >
       </ThemeOutliner>
     </outliner>
-    <clip_editor>
-      <ThemeClipEditor
-        frame_current="#16a34a"
-        >
-      </ThemeClipEditor>
-    </clip_editor>
   </Theme>
-  <ThemeStyle>
-  </ThemeStyle>
 </bpy>
