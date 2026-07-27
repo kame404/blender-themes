@@ -7,6 +7,7 @@
         icon_alpha="1"
         icon_saturation="0.5"
         widget_emboss="#00000026"
+        link="#6fa9e6ff"
         editor_border="#0f1413ff"
         editor_outline="#ffffff15"
         editor_outline_active="#ffffff2a"
@@ -364,7 +365,7 @@
         </wcol_list_item>
         <wcol_state>
           <ThemeWidgetStateColors
-            error="#771111ff"
+            error="#991616ff"
             warning="#ac8737ff"
             info="#28487dff"
             success="#188625ff"
@@ -488,6 +489,8 @@
     <view_3d>
       <ThemeView3D
         grid="#54545480"
+        grid_major="#3b4d48ff"
+        grid_axis_brightness="0.46"
         clipping_border_3d="#2c3a36ff"
         wire="#000000ff"
         wire_edit="#000000ff"
@@ -894,7 +897,9 @@
       </ThemeInfo>
     </info>
     <preferences>
-      <ThemePreferences>
+      <ThemePreferences
+        match="#059669ff"
+        >
         <space>
           <ThemeSpaceGeneric
             back="#222c29ff"
